@@ -1,0 +1,187 @@
+{
+   "entitiesByUniqueId" : {
+      "SPOTIFY_SONG::28GQ5KZHsFTj2S6nsgJg8c" : {
+         "title" : "White Mist - Live",
+         "type" : "song",
+         "thumbnailWidth" : 640,
+         "thumbnailHeight" : 640,
+         "platforms" : [
+            "spotify"
+         ],
+         "artistName" : "The Pineapple Thief",
+         "id" : "28GQ5KZHsFTj2S6nsgJg8c",
+         "thumbnailUrl" : "https://i.scdn.co/image/5a7c88f19a4cfdd5a0d5e6c28c7df86e981e1273",
+         "apiProvider" : "spotify"
+      },
+      "ITUNES_SONG::1480606819" : {
+         "platforms" : [
+            "appleMusic",
+            "itunes"
+         ],
+         "artistName" : "The Pineapple Thief",
+         "id" : "1480606819",
+         "thumbnailUrl" : "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/ab/e8/36/abe8365b-91d4-4336-9f68-e68717e5fc81/source/512x512bb.jpg",
+         "apiProvider" : "itunes",
+         "thumbnailHeight" : 512,
+         "type" : "song",
+         "title" : "White Mist (Live)",
+         "thumbnailWidth" : 512
+      },
+      "YOUTUBE_VIDEO::KE42ICS9thg" : {
+         "thumbnailHeight" : 360,
+         "title" : "White Mist (Live)",
+         "type" : "song",
+         "thumbnailWidth" : 480,
+         "artistName" : "The Pineapple Thief",
+         "id" : "KE42ICS9thg",
+         "thumbnailUrl" : "https://i.ytimg.com/vi/KE42ICS9thg/hqdefault.jpg",
+         "platforms" : [
+            "youtube",
+            "youtubeMusic"
+         ],
+         "apiProvider" : "youtube"
+      },
+      "GOOGLE_SONG::T4ss37seq7vttvwsfnsk4ttykxy" : {
+         "thumbnailWidth" : 512,
+         "type" : "song",
+         "title" : "White Mist (Live)",
+         "thumbnailHeight" : 512,
+         "apiProvider" : "google",
+         "id" : "T4ss37seq7vttvwsfnsk4ttykxy",
+         "thumbnailUrl" : "https://lh3.googleusercontent.com/F7GvohDzsUNDNWIJBO1Kd0hOHp5l5kaXMt8Gfs03qO8XnP8yg-Z6XbNu6opEfSx7EyeNVDLdUw",
+         "artistName" : "The Pineapple Thief",
+         "platforms" : [
+            "google",
+            "googleStore"
+         ]
+      },
+      "NAPSTER_SONG::tra.407872347" : {
+         "thumbnailUrl" : "https://direct.rhapsody.com/imageserver/images/alb.407872338/385x385.jpeg",
+         "artistName" : "The Pineapple Thief",
+         "id" : "tra.407872347",
+         "platforms" : [
+            "napster"
+         ],
+         "apiProvider" : "napster",
+         "title" : "White Mist (Live)",
+         "type" : "song",
+         "thumbnailWidth" : 385,
+         "thumbnailHeight" : 385
+      },
+      "DEEZER_SONG::758147522" : {
+         "apiProvider" : "deezer",
+         "platforms" : [
+            "deezer"
+         ],
+         "thumbnailUrl" : "https://cdns-images.dzcdn.net/images/cover/b629baa4c6003cdbcc3b21d83f12a6d0/500x500-000000-80-0-0.jpg",
+         "artistName" : "The Pineapple Thief",
+         "id" : "758147522",
+         "thumbnailHeight" : 500,
+         "thumbnailWidth" : 500,
+         "type" : "song",
+         "title" : "White Mist (Live)"
+      },
+      "PANDORA_SONG::TR:23004349" : {
+         "thumbnailWidth" : 500,
+         "title" : "White Mist (Live)",
+         "type" : "song",
+         "thumbnailHeight" : 500,
+         "apiProvider" : "pandora",
+         "platforms" : [
+            "pandora"
+         ],
+         "id" : "TR:23004349",
+         "thumbnailUrl" : "https://content-images.p-cdn.com/images/public/int/8/6/5/4/802644814568_500W_500H.jpg",
+         "artistName" : "The Pineapple Thief"
+      },
+      "AMAZON_SONG::B07Y437RKB" : {
+         "platforms" : [
+            "amazonMusic",
+            "amazonStore"
+         ],
+         "artistName" : "The Pineapple Thief",
+         "id" : "B07Y437RKB",
+         "thumbnailUrl" : "https://m.media-amazon.com/images/I/51WK+SOVnNL._AA500.jpg",
+         "apiProvider" : "amazon",
+         "type" : "song",
+         "title" : "White Mist (Live)",
+         "thumbnailWidth" : 500,
+         "thumbnailHeight" : 500
+      },
+      "SOUNDCLOUD_SONG::718439743" : {
+         "apiProvider" : "soundcloud",
+         "id" : "718439743",
+         "artistName" : "The Pineapple Thief",
+         "thumbnailUrl" : "https://i1.sndcdn.com/artworks-s87Uf00OTGbN-0-t500x500.jpg",
+         "platforms" : [
+            "soundcloud"
+         ],
+         "thumbnailWidth" : 500,
+         "type" : "song",
+         "title" : "White Mist (Live)",
+         "thumbnailHeight" : 500
+      }
+   },
+   "pageUrl" : "https://song.link/s/28GQ5KZHsFTj2S6nsgJg8c",
+   "linksByPlatform" : {
+      "deezer" : {
+         "url" : "https://www.deezer.com/track/758147522",
+         "entityUniqueId" : "DEEZER_SONG::758147522"
+      },
+      "youtube" : {
+         "entityUniqueId" : "YOUTUBE_VIDEO::KE42ICS9thg",
+         "url" : "https://www.youtube.com/watch?v=KE42ICS9thg"
+      },
+      "amazonStore" : {
+         "entityUniqueId" : "AMAZON_SONG::B07Y437RKB",
+         "url" : "https://amazon.com/dp/B07Y437RKB?tag=songlink0d-20"
+      },
+      "itunes" : {
+         "url" : "https://geo.music.apple.com/us/album/_/1480606486?i=1480606819&mt=1&app=itunes&at=1000lHKX",
+         "nativeAppUriMobile" : "itmss://itunes.apple.com/us/album/_/1480606486?i=1480606819&mt=1&app=itunes&at=1000lHKX",
+         "entityUniqueId" : "ITUNES_SONG::1480606819",
+         "nativeAppUriDesktop" : "itmss://itunes.apple.com/us/album/_/1480606486?i=1480606819&mt=1&app=itunes&at=1000lHKX"
+      },
+      "amazonMusic" : {
+         "url" : "https://music.amazon.com/albums/B07Y44P19D?trackAsin=B07Y437RKB&do=play",
+         "entityUniqueId" : "AMAZON_SONG::B07Y437RKB"
+      },
+      "soundcloud" : {
+         "entityUniqueId" : "SOUNDCLOUD_SONG::718439743",
+         "url" : "https://soundcloud.com/thepineapplethief/white-mist-live"
+      },
+      "appleMusic" : {
+         "nativeAppUriDesktop" : "itmss://itunes.apple.com/us/album/_/1480606486?i=1480606819&mt=1&app=music&at=1000lHKX",
+         "nativeAppUriMobile" : "music://itunes.apple.com/us/album/_/1480606486?i=1480606819&mt=1&app=music&at=1000lHKX",
+         "entityUniqueId" : "ITUNES_SONG::1480606819",
+         "url" : "https://geo.music.apple.com/us/album/_/1480606486?i=1480606819&mt=1&app=music&at=1000lHKX"
+      },
+      "google" : {
+         "entityUniqueId" : "GOOGLE_SONG::T4ss37seq7vttvwsfnsk4ttykxy",
+         "url" : "https://play.google.com/music/m/T4ss37seq7vttvwsfnsk4ttykxy?signup_if_needed=1"
+      },
+      "youtubeMusic" : {
+         "url" : "https://music.youtube.com/watch?v=KE42ICS9thg",
+         "entityUniqueId" : "YOUTUBE_VIDEO::KE42ICS9thg"
+      },
+      "spotify" : {
+         "nativeAppUriDesktop" : "spotify:track:28GQ5KZHsFTj2S6nsgJg8c",
+         "entityUniqueId" : "SPOTIFY_SONG::28GQ5KZHsFTj2S6nsgJg8c",
+         "url" : "https://open.spotify.com/track/28GQ5KZHsFTj2S6nsgJg8c"
+      },
+      "googleStore" : {
+         "url" : "https://play.google.com/store/music/album?id=Bdhr2gkjkgwz2psu2d53jyw2k7u&tid=song-T4ss37seq7vttvwsfnsk4ttykxy",
+         "entityUniqueId" : "GOOGLE_SONG::T4ss37seq7vttvwsfnsk4ttykxy"
+      },
+      "napster" : {
+         "url" : "http://napster.com/artist/art.12319/album/alb.407872338/track/tra.407872347",
+         "entityUniqueId" : "NAPSTER_SONG::tra.407872347"
+      },
+      "pandora" : {
+         "url" : "https://www.pandora.com/artist/the-pineapple-thief/hold-our-fire-live/white-mist-live/TRxmJzPVxwq9XdV",
+         "entityUniqueId" : "PANDORA_SONG::TR:23004349"
+      }
+   },
+   "entityUniqueId" : "SPOTIFY_SONG::28GQ5KZHsFTj2S6nsgJg8c",
+   "userCountry" : "US"
+}
